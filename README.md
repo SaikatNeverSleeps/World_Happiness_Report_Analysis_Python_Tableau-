@@ -1,5 +1,5 @@
 # World Happiness Report Analysis Project
-I utilized Python (Jupyter notebooks and the Anaconda Libraries Manager) to perfoem Data Consistency Checks and Data Wrangling for datasets pertinent to World Happiness Report. I performed Exploratory Data Analysis(EDA) through different visualizations such as scatterplots, correlation heatmaps, pair plots and categorical plots). Subsequently, I created a Dashboar, presenting my findings using Tableau.
+I utilized Python (Jupyter notebooks and the Anaconda Libraries Manager) to perfoem Data Consistency Checks and Data Wrangling for datasets pertinent to World Happiness Report. I performed Exploratory Data Analysis(EDA) through different visualizations such as scatterplots, correlation heatmaps, pair plots and categorical plots). Subsequently, I created a Dashboard, presenting my findings using Tableau.
 
 ## Background
 The World Happiness Report surveys happiness levels around the globe. This is an essential factor in shaping government policies. It assesses the current state of happiness worldwide and illustrates how the study of happiness can contribute to personal and national variations in happiness. 
