@@ -16,6 +16,7 @@ The World Happiness Report surveys happiness levels around the globe. This is an
 ## Data Source
 - [World Happiness Report 2015 to 2023](https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors/data) is taken from Kaggle
 - The original source is from [World Happiness Report](https://worldhappiness.report/)
+- [World GeoJSON](https://www.kaggle.com/datasets/mcpenguin/world-geojson)
 
 ## Data Collection
 The primary data collection method is Surveys and Interviews. There are two ways this data is collected.
